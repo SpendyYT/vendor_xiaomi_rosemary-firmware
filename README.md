@@ -70,20 +70,20 @@ mka romota
 
 **ROM**: MIUI
 
-**Version**: 12.5.16.0.RKLMIXM
+**Version**: 13.5.0 SFFTWIXM
 
 ## Compatibility
 
 **Android version compatibility**:
-* All Android 11 ROMs
-* Android 12 ROMs based on MIUI 12.5.16.0.RKLMIXM blobs
+* All Android 12-13 ROMs
+* Android 12 ROMs based on MIUI 13.0.5 SFFTWIXM blobs
 
 **Recovery compatibility**:
 * All TWRP variants
 * OrangeFox for Android 11
 
 **MIUI version compatibility**: Any MIUI version that doesn't increment
-ARB index - Anything up to 13.0.8.0.SKLMIXM as of the date of this tree.
+ARB index - Anything up to 13.0.5 SFFTWIXM as of the date of this tree.
 (9/24/2022)
 
 **Variant compatibility**:
